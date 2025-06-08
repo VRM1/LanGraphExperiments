@@ -1,0 +1,5 @@
+Datasets/fold*
+*.xml
+*.vscode
+*.pyc
+*DS_Store
